@@ -1,0 +1,5 @@
+print("Python supports Object Oriented Concepts".capitalize())
+print("Python is widely used and is one of the simplest programming languagues you can learn".lower())
+print("rakshith b n".upper())
+print("Learning python 101".title())
+print("Rakshith: the best coder out there".swapcase())
