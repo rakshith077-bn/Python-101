@@ -1,16 +1,15 @@
-# Example of a class
 from unittest import result
 
-class Human:
+class Myself:
 
-	string1 = "Mammal"
-	string2 = "Homosapiens"
+	string1 = "Rakshith B N"
+	string2 = "Python"
 
 	def fun(self):
-		print("Humans are", self.string1)
-		print("Humans are", self.string2)
+		print("Hello world!! My name is ", self.string1)
+		print("I have written this code in", self.string2, "Programming lanugauge")
 
-final_str = Human()
+final_str = Myself()
 
 print(final_str.string1)
 final_str.fun()
